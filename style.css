@@ -1,0 +1,180 @@
+
+
+
+.menu{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    float: right;
+    margin-top: 15px;
+    }
+    
+    
+    .logo{
+        float: left;
+        margin-top: 10px;
+        }
+        .image{
+            height: 482px;
+            top: 173px;
+            left: 1678px;
+            gap: 0px;
+            opacity: 0px;
+            transform: scaleX(-1);
+            
+            
+               
+                float:12px;
+                width:1300px;
+                height:px;
+                margin-top:0px;
+                margin-left:0px;
+                gap:0px;
+                opacity:0px;
+            }
+            .container{
+                -webkit-text-fill-color:white;
+            }
+    
+            #name{
+                width: 1570px;
+    height:82px;
+    top: 913px;
+    left: 63px;
+    gap: 0px;
+    border-radius: 100px 0px 0px 0px;
+    opacity: 0px;
+    
+            }
+    
+    
+    
+        li{
+            padding: 10px;
+            }
+            .navbar{
+            background: #FCAF02;
+            
+            
+            }
+            .btn{
+            background: #FCAF02;
+            padding: 5px 50px;
+            border-radius: 50px;
+            }
+            .btn:hover{
+            color: white;
+            border: #FCAF02;
+            
+            }
+            .bgdark{
+                background-color: black;
+                }
+                .field{
+                background-color: black;
+                border-radius: 50px;
+                border-color: #FCAF02;
+                padding-left: 20px;
+                }
+                ::placeholder {
+                color: red;
+                opacity: 1; /* Firefox */
+                }
+                td,th,tr{
+                color: #FCAF02;
+                border: 1px solid #FCAF02;
+                padding: 10px 20px;
+                }
+                table{
+                width: 100%;
+                }
+                
+                
+        
+    
+    
+    
+    
+    
+    
+                .heading{
+                    margin-bottom: 10px;
+                    font-size: 45px;
+                   position:top 10px;
+                   padding: 10px;
+                   font-family: Montserrat;
+                 }
+                .paragraph{
+                   
+                
+                width: 917px;
+                height: 238px;
+                top: 285px;
+                left: 63px;
+                gap: 0px;
+                opacity: 0px;
+                
+                font-family: Montserrat;
+                font-size: 28px;
+                font-weight: 400;
+                line-height: 34.13px;
+                text-align: left;
+                
+                }
+                
+    
+    *{
+        padding: 0%;
+        margin: 0%;
+    }
+    
+    #banner{
+        width:1440px;
+        height:30px;
+        gap:0px;
+        opacity:0px;
+        background:#FCAF02;
+        padding: 15px 0px;
+        
+    }
+    .logo{
+      
+        width: 12px;
+        height: 39px;
+        top: 24px;
+        left: 58px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Montserrat;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 25.01px;
+    text-align: left;
+    
+     }
+    
+     .menu{
+        
+            display: flex;
+            list-style: none;
+            align-items: center;
+            float: right;
+            margin-top: 15px;
+            
+            
+     }
+     .logo{
+        float: left;
+        margin-top: 0px;
+        float:left;
+        padding-right: 20px;
+    }
+    li{ 
+        margin-top: 0px;
+        float:right;
+        padding:0px 20px;
+    font-size: 20px;
+    position:top 0px;
+        
+    }
+                
